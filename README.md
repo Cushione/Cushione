@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning the basics 
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me send me a message
+
 
 <!---
 Cushione/Cushione is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
