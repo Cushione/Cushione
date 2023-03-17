@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cushione
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning the basics 
+- 👀 I’m currently looking job opportunities
+- 🌱 I’m expanding my coding knowledge 
 - 💞️ I’m looking to collaborate on Github
 
 
